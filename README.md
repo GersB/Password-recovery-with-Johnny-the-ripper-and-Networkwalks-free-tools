@@ -6,14 +6,14 @@ This project is part of my Cybersecurity & Ethical Hacking training (Networkwalk
 In Week 3, I completed two labs focused on **password cracking** — testing how
 weak passwords protect (or fail to protect) encrypted files such as PDFs.
 
-## 🛠️ Tools Used
+##  Tools Used
 - **John the Ripper (JTR)** – CLI password cracker (openwall.com)
 - **Johnny GUI** – Graphical front-end for JTR
 - **Networkwalks Hash Calculator** – Extracts crackable hashes from protected PDFs
 - **Networkwalks Password Cracker** – Recovers passwords from extracted hashes
 - **OnlineHashCrack PDF Hash Extractor** – Alternate hash extraction method
 
-## 📋 Project Modules
+##  Project Modules
 
 ### Module 1 – Password Cracking with JTR
 1. Installed John the Ripper and the Johnny GUI on Windows.
